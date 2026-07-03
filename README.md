@@ -1,10 +1,10 @@
 # 🧬 DNA Sequence Classification Using Machine Learning
 
-##  Project Overview
+##  Overview
 
-This project focuses on classifying DNA sequences using Machine Learning techniques. It demonstrates an end-to-end machine learning workflow, including data preprocessing, feature engineering, model training, prediction, and performance evaluation using Python and Scikit-learn.
+This Hads-on session focuses on classifying DNA sequences using Machine Learning techniques. It demonstrates an end-to-end machine learning workflow, including data preprocessing, feature engineering, model training, prediction, and performance evaluation using Python and Scikit-learn.
 
-This project was completed as part of the **Data Science Bootcamp Internship at IIIT Kottayam**.
+This session was completed as part of the **Data Science Bootcamp Internship at IIIT Kottayam**.
 
 ---
 
@@ -12,9 +12,6 @@ This project was completed as part of the **Data Science Bootcamp Internship at 
 
 - **Internship:** Data Science Bootcamp
 - **Organization:** IIIT Kottayam
-- **Project:** DNA Sequence Classification Using Machine Learning
-
----
 
 ## Objectives
 
@@ -43,7 +40,7 @@ The project uses a DNA promoter sequence dataset for binary classification.
 
 ---
 
-## Project Workflow
+## Workflow
 
 1. Import Libraries
 2. Load Dataset
@@ -69,17 +66,7 @@ The machine learning models were successfully trained and evaluated on the DNA s
 
 ---
 
-## Future Improvements
-
-- Hyperparameter tuning
-- Deep Learning models
-- Explainable AI
-- Cross Validation
-- Model Deployment
-
----
-
-## Project Structure
+## Structure
 
 ```
 DNA-Sequence-Classification-ML/
