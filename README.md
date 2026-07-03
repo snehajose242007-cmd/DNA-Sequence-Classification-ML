@@ -1,6 +1,6 @@
 # 🧬 DNA Sequence Classification Using Machine Learning
 
-## 📖 Project Overview
+##  Project Overview
 
 This project focuses on classifying DNA sequences using Machine Learning techniques. It demonstrates an end-to-end machine learning workflow, including data preprocessing, feature engineering, model training, prediction, and performance evaluation using Python and Scikit-learn.
 
@@ -8,7 +8,7 @@ This project was completed as part of the **Data Science Bootcamp Internship at 
 
 ---
 
-## 🏫 Internship Information
+## Internship Information
 
 - **Internship:** Data Science Bootcamp
 - **Organization:** IIIT Kottayam
@@ -16,7 +16,7 @@ This project was completed as part of the **Data Science Bootcamp Internship at 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Load and understand the DNA sequence dataset.
 - Perform data preprocessing.
@@ -26,13 +26,13 @@ This project was completed as part of the **Data Science Bootcamp Internship at 
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The project uses a DNA promoter sequence dataset for binary classification.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -43,7 +43,7 @@ The project uses a DNA promoter sequence dataset for binary classification.
 
 ---
 
-## 📊 Project Workflow
+## Project Workflow
 
 1. Import Libraries
 2. Load Dataset
@@ -57,7 +57,7 @@ The project uses a DNA promoter sequence dataset for binary classification.
 
 ---
 
-## 🤖 Machine Learning
+## Machine Learning
 
 The notebook demonstrates machine learning techniques for DNA sequence classification using the Scikit-learn library.
 
@@ -69,7 +69,7 @@ The machine learning models were successfully trained and evaluated on the DNA s
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Hyperparameter tuning
 - Deep Learning models
@@ -79,7 +79,7 @@ The machine learning models were successfully trained and evaluated on the DNA s
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 DNA-Sequence-Classification-ML/
@@ -96,7 +96,7 @@ DNA-Sequence-Classification-ML/
 
 ---
 
-## 💻 Installation
+## Installation
 
 Clone this repository:
 
@@ -112,13 +112,13 @@ pip install -r requirements.txt
 
 ---
 
-## ▶ Usage
+## Usage
 
 Open the Jupyter Notebook and run all cells sequentially.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Sneha**
 
@@ -128,6 +128,6 @@ IIIT Kottayam
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 Thanks to **IIIT Kottayam** for providing the opportunity to work on this project as part of the Data Science Bootcamp Internship.
